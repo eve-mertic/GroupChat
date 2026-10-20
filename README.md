@@ -71,4 +71,4 @@ Anything one participant types is delivered to all the others. Type `Exit` (case
 
 ## License
 
-Add your preferred license here (e.g. MIT).
+MIT
